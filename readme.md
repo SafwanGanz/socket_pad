@@ -120,25 +120,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 📧 Contact
-
-Have questions or feedback? Feel free to reach out:
-
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Twitter**: [@your-handle](https://twitter.com/your-handle)
-
----
-
 Happy collaborating! 🎉
 ```
 
 ---
-
-### Key Features of This README:
-1. **Modern Design**: Uses emojis, headers, and lists for a visually appealing look.
-2. **Rich Formatting**: Includes code blocks, tables, and links for better readability.
-3. **Comprehensive Sections**: Covers everything from installation to contributing.
-4. **Customizable**: Easy to adapt for your specific project needs.
-
-You can copy and paste this into your `README.md` file and customize it as needed! 🚀
